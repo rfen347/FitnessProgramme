@@ -65,3 +65,7 @@ c:\users\robin\documents\visual studio 2017\Projects\FitnessProgramme\FitnessPro
 c:\users\robin\documents\visual studio 2017\Projects\FitnessProgramme\FitnessProgramme\obj\Debug\FitnessProgramme.csprojResolveAssemblyReference.cache
 c:\users\robin\documents\visual studio 2017\Projects\FitnessProgramme\FitnessProgramme\obj\Debug\FitnessProgramme.dll
 c:\users\robin\documents\visual studio 2017\Projects\FitnessProgramme\FitnessProgramme\obj\Debug\FitnessProgramme.pdb
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\FitnessProgramme\FitnessProgramme\bin\EntityFramework.dll
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\FitnessProgramme\FitnessProgramme\bin\EntityFramework.SqlServer.dll
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\FitnessProgramme\FitnessProgramme\bin\EntityFramework.xml
+C:\Users\Robin\Documents\Visual Studio 2017\Projects\FitnessProgramme\FitnessProgramme\bin\EntityFramework.SqlServer.xml

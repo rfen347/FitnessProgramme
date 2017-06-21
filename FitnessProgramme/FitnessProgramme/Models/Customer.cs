@@ -23,9 +23,13 @@ namespace FitnessProgramme.Models
         // public virtual DbSet<MyEntity> MyEntities { get; set; }
     }
 
-    //public class MyEntity
-    //{
-    //    public int Id { get; set; }
-    //    public string Name { get; set; }
-    //}
+    public class MyEntity
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string City { get; set; }
+        public string Programme { get; set; }
+        public int age { get; set; }
+        public string Gender { get; set; }
+    }
 }
